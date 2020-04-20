@@ -6,7 +6,7 @@ public class AskingQuestions
     {
         Scanner keyboard = new Scanner(System.in);
 
-        int num1, num2, num3;
+        double num1, num2, num3;
 
         System.out.print( "First temperature? " );
         num1 = keyboard.nextInt();
